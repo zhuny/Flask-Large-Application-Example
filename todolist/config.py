@@ -5,11 +5,11 @@ class Config:
     pass
 
 
-class Testing(Config):
+class TestConfig(Config):
     pass
 
 
-class Production(Config):
+class ProductionConfig(Config):
     pass
 
 
